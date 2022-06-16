@@ -4,12 +4,12 @@
 #
 Name     : pypi-argh
 Version  : 0.26.2
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/e3/75/1183b5d1663a66aebb2c184e0398724b624cecd4f4b679cb6e25de97ed15/argh-0.26.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e3/75/1183b5d1663a66aebb2c184e0398724b624cecd4f4b679cb6e25de97ed15/argh-0.26.2.tar.gz
 Summary  : An unobtrusive argparse wrapper with natural syntax
 Group    : Development/Tools
-License  : License(LGPL) Version-3
+License  : GPL-3.0
 Requires: pypi-argh-python = %{version}-%{release}
 Requires: pypi-argh-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
@@ -53,7 +53,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1655404969
+export SOURCE_DATE_EPOCH=1655405107
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
