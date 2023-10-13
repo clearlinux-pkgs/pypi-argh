@@ -5,7 +5,7 @@
 #
 Name     : pypi-argh
 Version  : 0.29.4
-Release  : 14
+Release  : 15
 URL      : https://files.pythonhosted.org/packages/f9/7b/7f72a6b1ce8c5ceb3ca7541d1ec4e00508ef835cd6db5e9b7ce30c31bce1/argh-0.29.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/f9/7b/7f72a6b1ce8c5ceb3ca7541d1ec4e00508ef835cd6db5e9b7ce30c31bce1/argh-0.29.4.tar.gz
 Summary  : An unobtrusive argparse wrapper with natural syntax
