@@ -1,5 +1,5 @@
 PKG_NAME := pypi-argh
-URL = https://files.pythonhosted.org/packages/4e/ae/3c1896d2e8c7f74270686f339aa4a07dd8d4ffddde96488fcb1a726eb072/argh-0.31.2.tar.gz
+URL = https://files.pythonhosted.org/packages/4f/34/bc0b3577a818b4b70c6e318d23fe3c81fc3bb25f978ca8a3965cd8ee3af9/argh-0.31.3.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
