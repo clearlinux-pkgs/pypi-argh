@@ -7,7 +7,7 @@
 #
 Name     : pypi-argh
 Version  : 0.31.3
-Release  : 19
+Release  : 20
 URL      : https://files.pythonhosted.org/packages/4f/34/bc0b3577a818b4b70c6e318d23fe3c81fc3bb25f978ca8a3965cd8ee3af9/argh-0.31.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/4f/34/bc0b3577a818b4b70c6e318d23fe3c81fc3bb25f978ca8a3965cd8ee3af9/argh-0.31.3.tar.gz
 Summary  : Plain Python functions as CLI commands without boilerplate
